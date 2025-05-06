@@ -1,4 +1,4 @@
-# Data Analysts
+# Data Analyst
 
 ### Eduacation 
 2025-2026
